@@ -1,0 +1,46 @@
+#User{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#User img{
+    width: auto;
+    height: 150%;
+    margin-top: -5px;
+    margin-left: -3px;
+
+}
+#Menu img{
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-right: 20px;
+  filter:saturate(50%);
+}
+nav{
+    height: 40px;
+    margin-bottom: 300px;
+} 
+.nav{
+  float: right;
+  height: 40px;
+}
+.nav a{
+  color: dimgray;
+  text-decoration: none;
+}
+#mail, #Imag{
+  padding-top: 9px;
+  margin-right: 20px;
+}
+.logoD{
+  margin:auto ;
+  width :600px;
+  border: solid 1px;
+}
+.logo{
+margin:auto;
+width:600px;
+
+}
